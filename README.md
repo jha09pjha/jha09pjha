@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Prince Jha
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning BTech IT 
-- 💞️ I’m looking to collaborate on python,java
-- Pytorch,Tensorflow
+- 💞️ I’m looking to collaborate on c++,java
+- Pytorch,Tensorflow,low latency system
 - 📫 How to reach me email jha25196@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
